@@ -9,7 +9,7 @@ The popular way to estimate depth is LiDAR. However, the hardware price is high,
 ## ![stereomatching](https://drive.google.com/uc?export=view&id=1E6yGt6xllneuxnR2sMlaIG2AH7g0wEYV) 
 ## Pipeline
 - ![pipeline](https://drive.google.com/uc?export=view&id=1Tt9TrDmILezdV69C_vB9H-yiW5b_xRtZ)
-- In range of this project, I just research Stereo matching computation using 3 method:
+- In range of this project, I just research Stereo matching computation using 3 methods:
   + Pixel-wise matching method.
   + Window-based matching method.
   + Cosine Similarity (based on the window-based matching disparity map)
