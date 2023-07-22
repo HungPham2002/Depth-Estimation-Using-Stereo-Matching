@@ -13,3 +13,6 @@ The popular way to estimate depth is LiDAR. However, the hardware price is high,
   + Pixel-wise matching method.
   + Window-based matching method.
   + Cosine Similarity (based on the window-based matching disparity map)
+## References:
+- AI Viet Nam
+- https://learnopencv.com/depth-estimation-using-stereo-matching/
